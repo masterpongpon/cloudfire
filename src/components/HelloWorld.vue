@@ -63,7 +63,7 @@
         </b-row>
 
         <b-row align-h="center" class="mt-3">
-          <router-link to="/login">
+          <router-link to="/">
             <b-button class="mr-2" variant="dark" pill @click="addData"
               >Add Attraction</b-button
             >
